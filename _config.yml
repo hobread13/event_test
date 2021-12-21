@@ -1,0 +1,9 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "hobread"
+title_separator          : "-"
+subtitle                 : "My note"
+name                     : "hobread"
+description              : "My note."
+url                      : "https://hobread13.github.io"
+baseurl                  : ""
